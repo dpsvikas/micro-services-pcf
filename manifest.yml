@@ -1,0 +1,6 @@
+---
+applications:
+- name: micro-services-pcf
+  memory: 128M
+  host: micro-services-pcf
+  buildpack: staticfile_buildpack
